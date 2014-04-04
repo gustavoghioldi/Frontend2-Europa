@@ -1,3 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\Frontend2-Europa.clpprj">
-	<settings><PM_URL><![CDATA[http://localhost:8888/Frontend2-Europa/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost:8888/Frontend2-Europa/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS></settings></project>
+	<settings><PM_URL><![CDATA[http://localhost:8888/Frontend2-Europa/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost:8888/Frontend2-Europa/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value="C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\puls4.styl;"/><errors version="4.5">
+		<errfile name="C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\normalize.css">
+			<error val="0;51;9;51;2501;1;"/>
+			<error val="4;67;31;67;2502;1;"/>
+			<error val="4;68;35;68;2502;1;"/>
+			<error val="0;238;14;238;2501;1;"/>
+		</errfile>
+	</errors>
+	<codestructure version="4.6.1">
+		<phptree>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+			<treenode node="#444;CSS:CSS Element ID;C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\Codelobster0.less;f13;0;18;0;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="#e8e8e8;CSS:CSS Element ID;C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\Codelobster0.less;f11;4;19;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node=".5em;CSS:CSS Class Name;C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\Codelobster0.less;f10;11;14;11;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\puls4.styl" crc="-1827196381"/>
+		<file name="C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\puls4.css" crc="845441083"/>
+		<file name="C:\Program Files\EasyPHP\data\localweb\Frontend2-Europa\css\normalize.css" crc="6059754"/>
+	</filescache>
+</project>
